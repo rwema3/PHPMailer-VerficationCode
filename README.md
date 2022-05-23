@@ -1,7 +1,7 @@
 # the App
 PHPMailer-VerficationCode App
 ## Steps To use it:
-- [ ] redesign UI
+- [ ] install Xammp or wampp Server
 - [ ] account detail
 - [ ] customize stream support 
 - [x] dark mode support
