@@ -119,7 +119,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
             <a href="#" class="text-white px-2" style="text-decoration: none;">Advertisement</a>
         </div>
         <div>
-            <a href="#" class="text-white px-2" style="text-decoration: none;">Kigali, Rwanda</a>
+            <a href="#" class="text-white px-2" style="text-decoration: none;">Rwema</a>
         </div>
         <div>
             <a href="#" class="text-white px-2" style="text-decoration: none;">How search work</a>
