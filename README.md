@@ -4,8 +4,8 @@ PHPMailer-VerficationCode App
 - [ ] install Xammp or wampp Server
 - [ ] Import  to to htdocs
 - [ ] add your email credentials in Mail.php
-- [x] a
-
+- [ ] sign up then login and then register
+- [ ] Enjoy the App
 
 ### How it Looks
 <img src="https://github.com/o1298098/Flutter-Movie/blob/master/srceenshot/ios1.jpeg" width="150"><img src="https://github.com/o1298098/Flutter-Movie/blob/master/srceenshot/ios2.jpeg" width="150"><img src="https://github.com/o1298098/Flutter-Movie/blob/master/srceenshot/ios3.jpeg" width="150"><img src="https://github.com/o1298098/Flutter-Movie/blob/master/srceenshot/ios4.jpeg" width="150">  
