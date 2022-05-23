@@ -1,8 +1,6 @@
-# the applikation
-
-A Flutter movie app build with Fish-Redux na TMDB api.  
-
-## ToDos
+# the App
+PHPMailer-VerficationCode App
+## Steps To use it:
 - [ ] redesign UI
 - [ ] account detail
 - [ ] customize stream support 
