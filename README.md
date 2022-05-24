@@ -1,11 +1,11 @@
 # the App
 PHPMailer-VerficationCode App
 ## Steps To use it:
-- [ ] install Xammp or wampp Server
-- [ ] Import th cloned project to htdocs in xammp
-- [ ] Import .db file your local server xampp or wampp
-- [ ] add your email credentials in Mail.php (online 20 and 21)
-- [ ] sign up then login and then register
+- [ ] install Xampp or Wampp Server
+- [ ] copy and extlact the cloned project into htdocs in xammp 
+- [ ] Import .db file into your local server xampp or wampp
+- [ ] add your email credentials in Mail.php (on line 20 and 21)
+- [ ] sign up & login
 - [ ] Enjoy the App
 
 ### How it Looks
