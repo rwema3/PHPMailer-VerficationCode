@@ -32,8 +32,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
 
 <body>
 
-                <hr>
-
+    
                 <?php if(count($errors) > 0):?>
 				<?php foreach ($errors as $error):?>
 					<?= $error?> <br>	
