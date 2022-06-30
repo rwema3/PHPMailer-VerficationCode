@@ -32,12 +32,13 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
 
 <body>
 
-        <header style="background-color: red">
+    <!-- header -->
+    <header style="background-color: red">
         <h4 class="p-2 text-white  text-center">PHPMailer -Verfication code.</h4>
     </header>
 
 
-    
+    <main class="d-flex justify-content-center align-items-center" style="height: 90vh;">
         <div class="border pt-5 px-4 shadow-sm pb-8">
             <div class="position-relative text-center">
                 <i class="fa fa-user-circle-o text-info position-absolute" style="font-size: 50px;top: -80px"></i>
