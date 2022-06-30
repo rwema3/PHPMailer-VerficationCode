@@ -33,8 +33,6 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
 <body>
 
     
-            <!-- first and last name -->
-
             <form method="post">
                 
                 <div class="row g-2">
