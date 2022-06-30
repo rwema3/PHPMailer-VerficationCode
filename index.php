@@ -32,9 +32,6 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
 
 <body>
 
-                    </div>
-
-                    <div class="col">
                         <div class="position-relative">
                             <input type="text" name="lastname" id="" class="form-control ps-5" placeholder="Last name">
                             <i class="fa fa-user position-absolute text-info" aria-hidden="true" style="top: 10px;left:10px;font-size: 20px"></i>
