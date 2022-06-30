@@ -32,6 +32,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
 
 <body>
 
+        <header style="background-color: red">
         <h4 class="p-2 text-white  text-center">PHPMailer -Verfication code.</h4>
     </header>
 
