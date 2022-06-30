@@ -32,9 +32,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
 
 <body>
 
-                    </div>
-                </div>
-
+    
                 <!-- email -->
                 <div class="row mt-2">
                     <div class="col">
