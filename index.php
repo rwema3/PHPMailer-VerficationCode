@@ -32,7 +32,9 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
 
 <body>
 
-    
+                    </div>
+                </div>
+
                 <!-- password -->
                 <div class="row mt-2">
                     <div class="col">
