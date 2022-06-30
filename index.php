@@ -32,8 +32,6 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
 
 <body>
 
-                
-                <div class="row g-2">
                     <div class="col">
                         <div class="position-relative">
                             <input type="text" name="firstname" id="" class="form-control ps-5" placeholder="First name">
