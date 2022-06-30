@@ -32,8 +32,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
 
 <body>
 
-    </header>
-
+    
 
     
         <div class="border pt-5 px-4 shadow-sm pb-8">
