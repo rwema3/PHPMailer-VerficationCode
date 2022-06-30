@@ -32,7 +32,6 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
 
 <body>
 
-                <h6 class="fw-bold">Create an account</h6>
                 <hr>
 
                 <?php if(count($errors) > 0):?>
