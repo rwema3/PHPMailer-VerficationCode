@@ -32,8 +32,6 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
 
 <body>
 
-    
-            <form method="post">
                 
                 <div class="row g-2">
                     <div class="col">
