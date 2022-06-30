@@ -19,27 +19,24 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
 
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <script src="index.js"></script>
-    <title>Welcome</title>
+    
+    
 </head>
 
 <body>
 
-    <!-- header -->
-    <header style="background-color: red">
         <h4 class="p-2 text-white  text-center">PHPMailer -Verfication code.</h4>
     </header>
 
 
-    <main class="d-flex justify-content-center align-items-center" style="height: 90vh;">
+    
         <div class="border pt-5 px-4 shadow-sm pb-8">
             <div class="position-relative text-center">
                 <i class="fa fa-user-circle-o text-info position-absolute" style="font-size: 50px;top: -80px"></i>
