@@ -32,6 +32,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
 
 <body>
 
+            <div class="position-relative text-center">
                 <i class="fa fa-user-circle-o text-info position-absolute" style="font-size: 50px;top: -80px"></i>
                 <h6 class="fw-bold">Create an account</h6>
                 <hr>
