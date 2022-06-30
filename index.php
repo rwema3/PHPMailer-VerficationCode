@@ -32,8 +32,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
 
 <body>
 
-    			<?php endforeach;?>
-			<?php endif;?>
+    		<?php endif;?>
             
             </div>
 
