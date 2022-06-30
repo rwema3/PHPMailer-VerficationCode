@@ -32,6 +32,8 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
 
 <body>
 
+                <div class="row mt-2">
+                    <div class="col">
                         <div class="position-relative">
                             <input type="text" name="email" id="" class="form-control ps-5" placeholder="Email">
                             <i class="fa fa-envelope position-absolute text-info" aria-hidden="true" style="top: 10px;left:10px;font-size: 20px"></i>
