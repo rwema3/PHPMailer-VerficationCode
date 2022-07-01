@@ -26,6 +26,15 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
 <body>
 
     <!-- header -->
+
+                <?php if(count($errors) > 0):?>
+				<?php foreach ($errors as $error):?>
+					<?= $error?> <br>	
+				<?php endforeach;?>
+			<?php endif;?>
+            
+            </div>
+
             <!-- first and last name -->
 
             <form method="post">
