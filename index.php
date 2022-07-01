@@ -28,7 +28,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
     <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script src="index.js"></script>
-    <title>Welcome</title>
+    
 </head>
 
 <body>
