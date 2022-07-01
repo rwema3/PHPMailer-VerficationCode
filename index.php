@@ -26,17 +26,6 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
 <body>
 
     <!-- header -->
-            <!-- first and last name -->
-
-            <form method="post">
-                
-                <div class="row g-2">
-                    <div class="col">
-                        <div class="position-relative">
-                            <input type="text" name="firstname" id="" class="form-control ps-5" placeholder="First name">
-                            <i class="fa fa-user position-absolute text-info" aria-hidden="true" style="top: 10px;left:10px;font-size: 20px"></i>
-                        </div>
-                    </div>
 
                     <div class="col">
                         <div class="position-relative">
